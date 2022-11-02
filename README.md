@@ -39,11 +39,7 @@ Here are the technologies used in this project.
 
 * Run ARTISAN commands to migrate
 
-- In linux terminal you can run php artisan command from docker container:
-
-> $ docker exec -it runnersproof_laravel.test_1 /bin/bash
-
-> $ php artisan migrate
+> $ php artisan migrate Or ./vendor/bin/sail migrate
 
 ## How to use
 
