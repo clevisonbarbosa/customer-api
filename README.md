@@ -12,6 +12,10 @@ A PHP Laravel 9 API, including many used Laravel features.
 
 This first version does not have a security token or plugin, but it does have some validations to register.
 
+It has validations, made in the own html, as required, patterns, types, and also with masks for fields of zip, telephone, uf.
+
+Zip code validation using viacep api (https://viacep.com.br/), filling all address fields with zip code correctly, and when incorrect, display alert to user.
+
 ## Technology
 
 Here are the technologies used in this project.
