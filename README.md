@@ -53,6 +53,8 @@ As rotas definidas são:
 
 ## Versioning
 
+1.0.0.0
+
 ## Author
 
 * **Clévison barbosa silva vilela**:
