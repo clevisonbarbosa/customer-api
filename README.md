@@ -53,7 +53,7 @@ As rotas definidas são:
 
 - GET: /api/customers/create (create)
 
-- GET: /api/customers/store (save)
+- POST: /api/customers/store (save)
 
 ## Versioning
 
